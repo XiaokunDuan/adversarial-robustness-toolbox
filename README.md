@@ -61,7 +61,6 @@ After running the experiments, you will find visualizations and model weights in
 
 **Example: DANN Feature Space Alignment**
 
-![DANN t-SNE Plot](dir3_domain_adaptation/results/tsne_visualization.png)
 
 still on the pipe
 ---
