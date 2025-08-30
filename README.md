@@ -20,10 +20,9 @@ This toolbox contains implementations for:
 3.  **Direction 3: Domain-Adversarial Training (DANN)**: Bridging the "domain gap" by learning domain-invariant features, adapting a model from MNIST to a colored MNIST version without using target labels.
 
 ## Project Structure
-(...在这里可以简单描述一下你的项目结构...)
+To be modified
 
 ## Setup and Installation
-
 1.  Clone the repository:
     ```bash
     git clone https://github.com/XiaokunDuan/adversarial-robustness-toolbox.git
@@ -64,7 +63,6 @@ After running the experiments, you will find visualizations and model weights in
 
 ![DANN t-SNE Plot](dir3_domain_adaptation/results/tsne_visualization.png)
 
-(...在这里可以展示更多你的可视化结果...)
-
+still on the pipe
 ---
 **License**: MIT
